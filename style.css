@@ -1,3 +1,25 @@
 html {
-    background-color: blue;
+    background-color: #292f45;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #24292e; 
+    height: 60px;
+}
+
+.navbar ul {
+    margin: 0;
+}
+
+.navbar ul li {
+    display: inline-block;
+}
+
+.navbar ul li a {
+    text-decoration: none;
 }
